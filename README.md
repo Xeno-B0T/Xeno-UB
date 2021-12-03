@@ -3,7 +3,7 @@
 
 <details>
 
-  <summary> • LONELYBOT • </summary>
-<h2 align="center"> <a href="https://github.com/Dhrubamoy/Lonelybot">☢️REPO LONELYBOT☢️</a></h2>
+  <summary> • XenoBot • </summary>
+<h2 align="center"> <a href="https://github.com/Xeno-B0T/Xeno">☢️XenoBot☢️</a></h2>
 
 </details>
